@@ -1,0 +1,10 @@
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\bin\Debug\Gorsel Programlama Timer.exe.config
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\bin\Debug\Gorsel Programlama Timer.exe
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\bin\Debug\Gorsel Programlama Timer.pdb
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\obj\Debug\Gorsel Programlama Timer.csproj.AssemblyReference.cache
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\obj\Debug\Gorsel_Programlama_Timer.Form1.resources
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\obj\Debug\Gorsel_Programlama_Timer.Properties.Resources.resources
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\obj\Debug\Gorsel Programlama Timer.csproj.GenerateResource.cache
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\obj\Debug\Gorsel Programlama Timer.csproj.CoreCompileInputs.cache
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\obj\Debug\Gorsel Programlama Timer.exe
+C:\Users\birin\source\repos\Gorsel Programlama Timer\Gorsel Programlama Timer\obj\Debug\Gorsel Programlama Timer.pdb
