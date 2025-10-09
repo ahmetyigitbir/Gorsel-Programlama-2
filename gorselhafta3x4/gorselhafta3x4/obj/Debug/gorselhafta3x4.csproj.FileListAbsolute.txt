@@ -1,0 +1,10 @@
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\bin\Debug\gorselhafta3x4.exe.config
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\bin\Debug\gorselhafta3x4.exe
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\bin\Debug\gorselhafta3x4.pdb
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\obj\Debug\gorselhafta3x4.csproj.AssemblyReference.cache
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\obj\Debug\gorselhafta3x4.Form1.resources
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\obj\Debug\gorselhafta3x4.Properties.Resources.resources
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\obj\Debug\gorselhafta3x4.csproj.GenerateResource.cache
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\obj\Debug\gorselhafta3x4.csproj.CoreCompileInputs.cache
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\obj\Debug\gorselhafta3x4.exe
+C:\Users\birin\source\repos\gorselhafta3x4\gorselhafta3x4\obj\Debug\gorselhafta3x4.pdb
