@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\Sayı Oyunu.exe.config
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\Sayı Oyunu.exe
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\bin\Debug\Sayı Oyunu.pdb
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Form1.resources
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı_Oyunu.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.exe
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.pdb
+C:\Users\Lenovo\source\repos\Sayı Oyunu\Sayı Oyunu\obj\Debug\Sayı Oyunu.exe.config
